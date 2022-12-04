@@ -1,4 +1,98 @@
-This idkjfsdfjm,xdmkfdjn is Webcontent from Technicial guftgurufgfg
-fdgdgkdjfidfjdkiii.
-kdsfhljfnmsdlgjndfglsjn
-kdsflasdkjfadskmfadm
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <header>
+        <div class="applic">APPLIC</div>
+        <div class="sol">SOLUTIONS LLP</div>
+        <p>Global institute of data science</p>
+    <nav>
+        <ul>
+        <li class="nav">Home</li>
+        <li class="nav">Services </li>
+        <li class="nav">About</li>
+        <li class="nav">Contact us</li>
+  </ul>
+    </nav>
+    </header>
+    <div class="img">
+    <img src="https://datamites.com/resource/images/final/home3.jpg" width="1260px">
+    <div class="content">
+        <pre>     READY FOR A CAREER IN 
+     DATASCIENCE ?</pre>
+        <p>       Datascience   | Machine learning   | AI training</p>
+        </div>
+    </div>
+    <img data-src="https://datamites.com/resource/images/partners/partners-logos.jpg" class="img-responsive d-none d-lg-block lazyloaded" src="https://datamites.com/resource/images/partners/partners-logos.jpg">
+    <!-- <a href="https://datamites.com/data-science-training/"> <div class="homecategory section-02"> <h3>DATA SCIENCE COURSES</h3> </div> </a> -->
+    <div class="section-heading-01 center-holder"> <h2>PYTHON TRAINING COURSES</h2> </div>
+     <footer>copyrights@82030</footer>
+    
+</body>
+</html>
+<style>
+    pre{
+        font-size: 45px;
+        font-weight:bold;
+    }
+    p{
+        margin-left: 125px;
+    }
+     */{
+        margin: 0;
+        padding: 0;
+        width: 1200px;
+     }
+    footer
+    {
+        background-color: black;
+        color: white;
+        text-align: center;
+        padding: 30px;
+    }
+    .nav
+    {
+        background-color: black;
+        color: white;
+        /* height: 300px; */
+        /* text-align: center; */
+        list-style: circle;
+        display: block;
+        margin: 4px;
+        padding: 20px;
+    }
+    .applic{
+    font-style: italic;
+    font-weight: bolder;
+    color: darkblue;
+    display: inline;
+    font-size: 40px;
+    }
+    .sol{
+    font-style: italic;
+    font-weight: bolder;
+    color: darkblue;
+    display: inline;
+    }
+    .img
+    {
+        position: relative;
+    }
+    .content{
+        position: absolute;
+        top: 25px;
+        color: aliceblue;
+
+    }
+    .content h4{
+        font-weight: bold;
+        text-transform: uppercase;
+        font-size: 20px;
+        margin-bottom: 6px;
+    }
+</style>
